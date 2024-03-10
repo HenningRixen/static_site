@@ -1,1 +1,1 @@
-Trying myself in a static site 
+Trying myself in a static site generator
